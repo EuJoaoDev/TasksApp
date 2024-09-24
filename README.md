@@ -32,26 +32,5 @@ Task_App é uma aplicação de gerenciamento de tarefas desenvolvida em **React 
 
 Certifique-se de ter o **Node.js** e **npm** (ou **Yarn**) instalados em sua máquina.
 
-### Passo a Passo
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/alexandrooliveira87/Projeto_Task_APP_React_Native
-   
-2. Acesse o diretório do projeto:
-
-cd Task_App
-
-3. Instale as dependências:
-
-npm install
-
-4. Inicie o servidor de desenvolvimento do Expo:
-
-npm start
-
-5. Escaneie o QR code no terminal com o aplicativo Expo Go (disponível para iOS e Android) para rodar o aplicativo no seu dispositivo físico, ou execute em um emulador Android/iOS.
-
 
 
